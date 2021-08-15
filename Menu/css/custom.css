@@ -1,0 +1,94 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+/*h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: 120% !important;
+    color: #1f1f1f;
+    margin: 0
+}
+*/
+h2 {
+    font-size: 22px;
+	font-weight: 400;
+	position:center;
+}
+
+.ppb_menu_title {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #222;
+    display: inline-block;
+    line-height: 1.2em;
+    letter-spacing: 2px;
+	font-weight: 400;
+}
+
+.menu_post .menu_title{
+	font-size:20px;
+	font: bold;
+}
+
+.standard_wrapper {
+	
+}
+
+.one_half{
+	display: inline-block;
+ width: 700px;
+  height: 100px;
+  padding: 5px;
+    
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 960px)
+.menu_content_classic .menu_title, .menu_content_classic .menu_price {
+    font-size: 15px;
+}
+
+.menu_content_classic .menu_title {
+    position: relative;
+    z-index: 2;
+    font-size: 16px;
+    background: #fff;
+    top: -5px;
+}
+
+h5.menu_post {
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    position: relative;
+	margin: 200;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    font-weight: 400;
+    letter-spacing: 0px;
+}
+
+.menu_content_classic {
+    width: 100%;
+    float: left;
+    margin: 30px 0 0 0;
+    text-align: left;
+}
+
+.menu_price{
+	font-size: 20px;
+	margin-left:70px;
+	
+}
+
+
+
